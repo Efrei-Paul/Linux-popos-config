@@ -1,5 +1,5 @@
 # Config Linux
->Objectif : avoir une config linux sympa qui s'install tute seule 
+>Objectif : avoir une config linux sympa qui s'installe toute seule 
 
 
 ## les applications
