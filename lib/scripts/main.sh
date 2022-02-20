@@ -31,6 +31,7 @@ sudo rm -r pfetch/
 
 print "VScode"
 install "code"
+bash ./vscode.sh
 
 print "Discord"
 install "discord"
@@ -66,10 +67,21 @@ print "Thunar"
 install "thunar"
 
 print "Brave"
+sudo apt install apt-transport-https curl
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+sudo apt update
 install "brave-browser"
 
 print "gnome-tweaks"
 install "gnome-tweaks"
+
+print "Key mapper"
+sudo apt install git python3-setuptools gettext -y
+git clone https://github.com/sezanzeb/input-remapper.git
+cd input-remapper && ./scripts/build.sh
+sudo apt install ./dist/input-remapper-1.4.0.deb -y
+
 
 #cp cfg ²file 
 cp -r nvim ~/.config/

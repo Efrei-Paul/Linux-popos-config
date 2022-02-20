@@ -31,6 +31,7 @@
  - [x] thunar
  - [x] gnome-tweaks
  - [x] brave
+ - [ ] [key mapper](https://github.com/sezanzeb/input-remapper) 
 
 
 ### Pop!_shop
@@ -46,7 +47,11 @@ ___
  - [x] [vscodes extensions](lib/scripts/vscode.sh)
     - list all extensions : `code --list-extensions | xargs -L 1 echo code --install-extension` 
  - [x] [wallpaper](lib/wallpapers/)
-
+ - [ ] [Brave browser](lib/brave/)
+   - [ ] dark themes
+   - [ ] ext 
+   - [ ] sync
+     - bitwarden
 ___
 
 ## les scripts
@@ -54,7 +59,8 @@ ___
  - [ ] lien symbolique Sécu
  - [ ] racourcit clavier ??
  - [ ] changer les icones terminator / thunar ?
- - [ ] map cmd key
+ - [ ] Key-mapper config
 
 ## DE
  - [ ] gnome extensions
+   - [dash to panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) pop
