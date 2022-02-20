@@ -13,10 +13,10 @@ apt upgrade
 apt dist-upgrade
 
 print "Exa"
-insatll "exa"
+install "exa"
 
 print "Bat"
-insatll "bat"
+install "bat"
 
 print "Neovim"
 insatll "neovim"
@@ -70,6 +70,12 @@ install "brave-browser"
 
 print "gnome-tweaks"
 install "gnome-tweaks"
+
+#cp cfg ²file 
+cp -r nvim ~/.config/
+cp -r terminator/ ~/.config/
+cp shell/.bashrc ~/
+
 
 echo "On Pop_Shop :"
 echo "Calibre"
