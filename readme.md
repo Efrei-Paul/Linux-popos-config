@@ -5,48 +5,48 @@
 ## les applications
 
 ### Terminal 
- - [x] [exa](https://the.exa.website/install/linux)
- - [x] [bat](https://github.com/sharkdp/bat)
- - [x] [neovim](https://neovim.io/)
- - [x] terminator
- - [x] [pfetch](https://github.com/dylanaraps/pfetchls)
+ - [exa](https://the.exa.website/install/linux)
+ - [bat](https://github.com/sharkdp/bat)
+ - [neovim](https://neovim.io/)
+ - terminator
+ - [pfetch](https://github.com/dylanaraps/pfetchls)
 
 ### Code et Info
- - [x] vscode
+ - vscode
  - [ ] docker
- - [x] discord
- - [x] virtualbox
- - [x] git 
- - [x] python
- - [x] pip
- - [x] ruby
- - [x] node
- - [x] npm
+ - discord
+ - virtualbox
+ - git 
+ - python
+ - pip
+ - ruby
+ - node
+ - npm
 
 ### Secu
- - [x] nmap
+ - nmap
 
 ### Autres
- - [x] libre office
- - [x] thunar
- - [x] gnome-tweaks
- - [x] brave
- - [ ] [key mapper](https://github.com/sezanzeb/input-remapper) 
+ - libre office
+ - thunar
+ - gnome-tweaks
+ - brave
+ - [key mapper](https://github.com/sezanzeb/input-remapper) 
 
 
 ### Pop!_shop
- - [x] calibre
- - [x] teams
- - [x] steam
+ - calibre
+ - teams
+ - steam
 ___
 
 ## les dossiers et fichiers de config
- - [x] [bash config](lib/shell/.bashrc)
- - [x] [terminator config](lib/terminator/config)
- - [x] [neovim config](lib/nvim/init.vim)
- - [x] [vscodes extensions](lib/scripts/vscode.sh)
+ - [bash config](lib/shell/.bashrc)
+ - [terminator config](lib/terminator/config)
+ - [neovim config](lib/nvim/init.vim)
+ - [vscodes extensions](lib/scripts/vscode.sh)
     - list all extensions : `code --list-extensions | xargs -L 1 echo code --install-extension` 
- - [x] [wallpaper](lib/wallpapers/)
+ - wallpaper](lib/wallpapers/)
  - [ ] [Brave browser](lib/brave/)
    - [ ] dark themes
    - [ ] ext 
@@ -55,12 +55,12 @@ ___
 ___
 
 ## les scripts
- - [ ] c~alibre bibliotèque lien
+ - [ ] calibre bibliotèque lien
  - [ ] lien symbolique Sécu
  - [ ] racourcit clavier ??
  - [ ] changer les icones terminator / thunar ?
- - [ ] Key-mapper config
+ - [ ] Key-mapper config ??
 
 ## DE
  - [ ] gnome extensions
-   - [dash to panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) pop
+   - [dash to panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
