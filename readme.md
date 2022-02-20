@@ -9,53 +9,52 @@
  - [x] [bat](https://github.com/sharkdp/bat)
  - [x] [neovim](https://neovim.io/)
  - [x] terminator
- - [ ] [pfetch](https://github.com/dylanaraps/pfetch) ?
+ - [x] [pfetch](https://github.com/dylanaraps/pfetchls)
 
 ### Code et Info
- - [ ] vscode
+ - [x] vscode
  - [ ] docker
- - [ ] discord
- - [ ] virtualbox
- - [ ] git 
- - [ ] python
- - [ ] ruby
- - [ ] node
+ - [x] discord
+ - [x] virtualbox
+ - [x] git 
+ - [x] python
+ - [x] pip
+ - [x] ruby
+ - [x] node
+ - [x] npm
 
 ### Secu
- - [ ] nmap
- - [ ] metasploit ?
+ - [x] nmap
 
 ### Autres
- - [ ] calibre
- - [ ] libre office
- - [ ] teams
- - [ ] thunar
- - [ ] gnome-tweaks
- - [ ] brave
- - [ ] steam
+ - [x] libre office
+ - [x] thunar
+ - [x] gnome-tweaks
+ - [x] brave
 
+
+### Pop!_shop
+ - [x] calibre
+ - [x] teams
+ - [x] steam
 ___
 
 ## les dossiers et fichiers de config
  - [x] [bash config](lib/shell/.bashrc)
  - [x] [terminator config](lib/terminator/config)
  - [x] [neovim config](lib/nvim/init.vim)
- - [ ] pfetch config ?
  - [x] [vscodes extensions](lib/scripts/vscode.sh)
     - list all extensions : `code --list-extensions | xargs -L 1 echo code --install-extension` 
- - [ ] virtualbox VM folder
- - [ ] wallpaper
+ - [x] [wallpaper](lib/wallpapers/)
 
 ___
 
 ## les scripts
- - [ ] virtualbox VM folder lien
- - [ ] calibre bibliotèque lien
+ - [ ] c~alibre bibliotèque lien
  - [ ] lien symbolique Sécu
  - [ ] racourcit clavier ??
- - [ ] set shell
  - [ ] changer les icones terminator / thunar ?
  - [ ] map cmd key
 
 ## DE
- - [ ] gnome extensions 
+ - [ ] gnome extensions
