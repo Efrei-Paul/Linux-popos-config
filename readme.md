@@ -9,7 +9,7 @@
  - [bat](https://github.com/sharkdp/bat)
  - [neovim](https://neovim.io/)
  - terminator
- - [pfetch](https://github.com/dylanaraps/pfetchls)
+ - [pfetch](https://github.com/dylanaraps/pfetch)
 
 ### Code et Info
  - vscode
