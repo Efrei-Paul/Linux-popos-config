@@ -87,9 +87,11 @@ sudo apt install ./dist/input-remapper-1.4.0.deb -y
 cp -r nvim ~/.config/
 cp -r terminator/ ~/.config/
 cp shell/.bashrc ~/
+cp shell/.bashrc /root/
+cp -r ./wallpapers ~/Pictures
 
 
 echo "On Pop_Shop :"
-echo "Calibre"
-echo "Teams for Linux"
-echo "Steam"
+echo "  -Calibre"
+echo "  -Teams for Linux"
+echo "  -Steam"

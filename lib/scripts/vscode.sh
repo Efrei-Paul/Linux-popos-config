@@ -1,11 +1,8 @@
 #!/bin/bash
 
 code --install-extension aaron-bond.better-comments
-code --install-extension akamud.vscode-theme-onedark
-code --install-extension CodeAlb.CodeAlb
 code --install-extension esbenp.prettier-vscode
-code --install-extension GitHub.vscode-pull-request-github
-code --install-extension matklad.rust-analyzer
+code --install-extension formulahendry.code-runner
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
