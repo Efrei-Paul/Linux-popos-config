@@ -20,6 +20,7 @@
  - python
  - pip
  - ruby
+ - java (default-jre)
  - node
  - npm
 

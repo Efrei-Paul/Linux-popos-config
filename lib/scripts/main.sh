@@ -66,6 +66,9 @@ install "libreofice"
 print "Thunar"
 install "thunar"
 
+print "Java"
+install "default-jre"
+
 print "Brave"
 sudo apt install apt-transport-https curl
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
